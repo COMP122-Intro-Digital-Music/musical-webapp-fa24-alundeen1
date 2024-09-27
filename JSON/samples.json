@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Storm",
+    "file": "samples/storm.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Soft Guitar",
+    "file": "samples/softguitar.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Guitar Riff",
+    "file": "samples/714671__kaseyhaze__riff-1.wav",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
